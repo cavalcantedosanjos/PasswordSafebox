@@ -1,0 +1,28 @@
+PODS:
+  - DZNEmptyDataSet (1.7.3)
+  - IQKeyboardManagerSwift (5.0.0)
+  - KeychainSwift (10.0.0)
+  - Kingfisher (4.6.0)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet (= 1.7.3)
+  - IQKeyboardManagerSwift (= 5.0.0)
+  - KeychainSwift (= 10.0)
+  - Kingfisher (= 4.6)
+  - RxCocoa (= 4.0)
+  - RxSwift (= 4.0)
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: dd7cca17c1d07dfa78956859b1e70a52505678ef
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  KeychainSwift: f9f7910449a0c0fd2cabc889121530dd2c477c33
+  Kingfisher: 1ea13a1b18297ae8afa0965e83ecdb68e1b71987
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+
+PODFILE CHECKSUM: 1fe767f03d1997a664cda3b7b7af84a189f4547d
+
+COCOAPODS: 1.3.1
